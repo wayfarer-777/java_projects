@@ -39,6 +39,7 @@ replay_pid*
 .history/
 # Локальные папки с задачами на лекциях и семинарах, тестовые задачи
 lectures/
+lectures/lecture_1/
 seminars/
 test/
 # Built Visual Studio Code Extensions
