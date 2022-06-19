@@ -38,7 +38,7 @@ replay_pid*
 # Local History for Visual Studio Code
 .history/
 # Локальные папки с задачами на лекциях и семинарах, тестовые задачи
-letures/
+lectures/
 seminars/
 test/
 # Built Visual Studio Code Extensions
