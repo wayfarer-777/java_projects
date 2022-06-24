@@ -21,7 +21,7 @@ public class hw_1 {
 
   public static void main(String[] args) {
     Scanner myScanner = new Scanner(System.in);
-    System.out.printf("Введите int N: ");
+    System.out.printf("Введите номер треугольного числа N: ");
     int x = myScanner.nextInt();
     System.out.printf("N = %d \n", x);
     for (int i = 1; i <= x; i++) {
