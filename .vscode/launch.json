@@ -1,0 +1,70 @@
+{
+  // Используйте IntelliSense, чтобы узнать о возможных атрибутах.
+  // Наведите указатель мыши, чтобы просмотреть описания существующих атрибутов.
+  // Для получения дополнительной информации посетите: https://go.microsoft.com/fwlink/?linkid=830387
+  "version": "0.2.0",
+  "configurations": [
+    {
+      "type": "java",
+      "name": "Launch Current File",
+      "request": "launch",
+      "mainClass": "${file}"
+    },
+    {
+      "type": "java",
+      "name": "Launch hw_1",
+      "request": "launch",
+      "mainClass": "homeworks.homework_1.hw_1",
+      "projectName": "java_projects_688d8fc"
+    },
+    {
+      "type": "java",
+      "name": "Launch hw_21",
+      "request": "launch",
+      "mainClass": "homeworks.homework_2.hw_21",
+      "projectName": "java_projects_688d8fc"
+    },
+    {
+      "type": "java",
+      "name": "Launch hw_22",
+      "request": "launch",
+      "mainClass": "homeworks.homework_2.hw_22",
+      "projectName": "java_projects_688d8fc"
+    },
+    {
+      "type": "java",
+      "name": "Launch hw_31",
+      "request": "launch",
+      "mainClass": "homeworks.homework_3.hw_31",
+      "projectName": "java_projects_688d8fc"
+    },
+    {
+      "type": "java",
+      "name": "Launch sem_2",
+      "request": "launch",
+      "mainClass": "seminars.sem_2",
+      "projectName": "java_projects_688d8fc"
+    },
+    {
+      "type": "java",
+      "name": "Launch Demo",
+      "request": "launch",
+      "mainClass": "test.Demo",
+      "projectName": "java_projects_688d8fc"
+    },
+    {
+      "type": "java",
+      "name": "Launch Main",
+      "request": "launch",
+      "mainClass": "test.Main",
+      "projectName": "java_projects_688d8fc"
+    },
+    {
+      "type": "java",
+      "name": "Launch inputOutput",
+      "request": "launch",
+      "mainClass": "test.inputOutput",
+      "projectName": "java_projects_688d8fc"
+    }
+  ]
+}
