@@ -6,6 +6,55 @@
   "configurations": [
     {
       "type": "java",
+      "name": "Launch calculator",
+      "request": "launch",
+      "mainClass": "calculator",
+      "projectName": "java_projects_688d8fc"
+    },
+    {
+      "type": "java",
+      "name": "Launch Ideone",
+      "request": "launch",
+      "mainClass": "calculator_v2.src.Ideone",
+      "projectName": "java_projects_688d8fc"
+    },
+    {
+      "type": "java",
+      "name": "Launch my_calc_v2",
+      "request": "launch",
+      "mainClass": "calculator_v2.src.my_calc_v2",
+      "projectName": "java_projects_688d8fc"
+    },
+    {
+      "type": "java",
+      "name": "Launch my_calc_v2",
+      "request": "launch",
+      "mainClass": "my_calc_v2",
+      "projectName": "java_projects_688d8fc"
+    },
+    {
+      "type": "java",
+      "name": "Launch App",
+      "request": "launch",
+      "mainClass": "App",
+      "projectName": "java_projects_688d8fc"
+    },
+    {
+      "type": "java",
+      "name": "Launch my_calc_v2",
+      "request": "launch",
+      "mainClass": "homeworks.homework_4.calculator_v2.my_calc_v2",
+      "projectName": "java_projects_688d8fc"
+    },
+    {
+      "type": "java",
+      "name": "Launch Main",
+      "request": "launch",
+      "mainClass": "homeworks.homework_4.my_calculator.Main",
+      "projectName": "java_projects_688d8fc"
+    },
+    {
+      "type": "java",
       "name": "Launch Current File",
       "request": "launch",
       "mainClass": "${file}"
