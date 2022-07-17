@@ -6,6 +6,13 @@
   "configurations": [
     {
       "type": "java",
+      "name": "Launch waves_2",
+      "request": "launch",
+      "mainClass": "waves_2",
+      "projectName": "java_projects_688d8fc"
+    },
+    {
+      "type": "java",
       "name": "Launch waves",
       "request": "launch",
       "mainClass": "waves",
