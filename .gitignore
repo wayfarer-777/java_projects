@@ -57,3 +57,4 @@ test/
 *.code-workspace
 
 # End of https://www.toptal.com/developers/gitignore/api/visualstudiocode,java
+/homeworks/homework_6/EquationSolution/target/

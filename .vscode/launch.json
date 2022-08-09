@@ -6,6 +6,20 @@
   "configurations": [
     {
       "type": "java",
+      "name": "Launch equation",
+      "request": "launch",
+      "mainClass": "equation",
+      "projectName": "java_projects_688d8fc"
+    },
+    {
+      "type": "java",
+      "name": "Launch EquationSolution",
+      "request": "launch",
+      "mainClass": "com.mycompany.equationsolution.EquationSolution",
+      "projectName": "EquationSolution"
+    },
+    {
+      "type": "java",
       "name": "Launch waves_2",
       "request": "launch",
       "mainClass": "waves_2",

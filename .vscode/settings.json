@@ -1,7 +1,7 @@
 {
   "java.project.sourcePaths": [
+    "homeworks/homework_5",
     "homeworks/homework_4/calculator_v4/src",
-    "homeworks/homework_4/calculator_v2",
-    "homeworks/homework_5"
+    "homeworks/homework_6"
   ]
 }
